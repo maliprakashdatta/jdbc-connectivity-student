@@ -20,8 +20,8 @@ student-management-system/
 │       │               │   └── StudentRepository.java   # Interface extending JpaRepository
 │       │               │
 │       │               ├── service/
-│       │               │   ├── StudentService.java      # Interface defining business logic
-│       │               │   └── impl/
+│       │               │   ├── studentService.java      # Interface defining business logic
+│       │               │   └── ConnectioService.java/
 │       │               │       └── StudentServiceImpl.java # Service implementation
 │       │               │
 │       │               └── StudentManagementSystemApplication.java  # Main application class
