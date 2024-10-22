@@ -9,7 +9,7 @@ public class ConnectionService
         Connection connection = null;
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            String url = "jdbc:mysql://localhost:3306/student";
+            String url = "jdbc:mysql://localhost:3306/student1";
             String username = "root";
             String password = "Prakash@123";
             connection = DriverManager.getConnection(url, username, password);
