@@ -33,3 +33,9 @@ CREATE TABLE student1.student (
 ```shell
 SELECT * FROM student1.student;
 ```
+
+
+# Project Screen 
+
+<image src="https://github.com/user-attachments/assets/08b91983-5b34-4be7-a303-a90d22e08e78" width="750" height="350">
+
