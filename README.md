@@ -39,3 +39,11 @@ SELECT * FROM student1.student;
 
 <image src="https://github.com/user-attachments/assets/08b91983-5b34-4be7-a303-a90d22e08e78" width="750" height="350">
 
+
+
+# mysql db Screen 
+
+<image src="https://github.com/user-attachments/assets/10144c33-cb4c-4caf-9fe9-31dc5698ac29" width="750" height="350">
+
+
+
