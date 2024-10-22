@@ -1,5 +1,37 @@
 ## jdbc-connectivity-student 
 
+## Project Structure 
+```shell
+student-management-system/
+│
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── example/
+│       │           └── studentmanagement/
+│       │               ├── controller/
+│       │               │   └── StudentController.java   # Handles HTTP requests
+│       │               │
+│       │               ├── model/
+│       │               │   └── Student.java             # Entity representing Student
+│       │               │
+│       │               ├── repository/
+│       │               │   └── StudentRepository.java   # Interface extending JpaRepository
+│       │               │
+│       │               ├── service/
+│       │               │   ├── StudentService.java      # Interface defining business logic
+│       │               │   └── impl/
+│       │               │       └── StudentServiceImpl.java # Service implementation
+│       │               │
+│       │               └── StudentManagementSystemApplication.java  # Main application class
+│       │
+│       └── resources/
+│           ├── application.properties   # Application config (DB details, etc.)
+│           └── data.sql                 # Sample data (optional)
+│
+└── pom.xml                              # Maven build file
+```
 
 # Technical Details
 In this project, we are going to use below set of versions for demonstrations.
