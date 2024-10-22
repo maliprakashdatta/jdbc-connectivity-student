@@ -6,7 +6,7 @@
   <artifactId>studentmanagementsystems</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
-
+ 
   <name>studentmanagementsystems</name>
   <url>http://maven.apache.org</url>
 
