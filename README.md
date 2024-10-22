@@ -28,3 +28,8 @@ CREATE TABLE student1.student (
   studentAddress VARCHAR(45) NULL,
   PRIMARY KEY (studentId));
 ```
+
+### select table
+```shell
+SELECT * FROM student1.student;
+```
