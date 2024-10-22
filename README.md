@@ -20,3 +20,11 @@ mvn clean install
 mvn clean spring-boot:run
 ```
 
+### mysql Database
+```shell
+CREATE TABLE student1.student (
+  studentId INT NOT NULL,
+  studentName VARCHAR(45) NULL,
+  studentAddress VARCHAR(45) NULL,
+  PRIMARY KEY (studentId));
+```
