@@ -1,6 +1,6 @@
 ## jdbc-connectivity-student 
   
-## Project Structure 
+## Project Structure  
 ```shell
 student-management-system/
 │
