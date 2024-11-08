@@ -2,7 +2,7 @@
      
 ## Project Structure  
 ```shell
-student-management-system/
+student-management-system/ 
 │
 ├── src/
 │   └── main/
