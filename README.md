@@ -1,4 +1,4 @@
-## jdbc-connectivity-student 
+## jdbc-connectivity-student  
      
 ## Project Structure  
 ```shell
