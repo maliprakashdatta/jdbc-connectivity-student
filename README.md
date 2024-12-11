@@ -6,7 +6,7 @@ student-management-system/
 │
 ├── src/
 │   └── main/
-│       ├── java/
+│       ├── java/ 
 │       │   └── com/
 │       │       └── example/
 │       │           └── studentmanagement/
