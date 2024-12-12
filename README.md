@@ -1,7 +1,7 @@
 ## jdbc-connectivity-student  
      
 ## Project Structure   
-```shell
+```shell 
 student-management-system/ 
 │
 ├── src/
